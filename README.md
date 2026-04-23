@@ -1,6 +1,6 @@
 # F.I.N.V. - Lenguaje de Programación
 
-[cite_start]F.I.N.V. es un lenguaje de programación creado para la materia "Sintaxis y Semántica de los Lenguajes"El lenguaje está inspirado en un "messi script", donde cada sentencia hace referencia a jugadas del futbolista argentino Lionel Messi.
+F.I.N.V. es un lenguaje de programación creado para la materia "Sintaxis y Semántica de los Lenguajes"El lenguaje está inspirado en un "messi script", donde cada sentencia hace referencia a jugadas del futbolista argentino Lionel Messi.
 
 ## 🚀 Características
 * **Intérprete propio:** Desarrollado e implementado mediante Pascal.
