@@ -1,0 +1,15 @@
+program Fibonacci pase 
+var a, b, i, n, sucesion;
+lio ("Ingrese cant numeros para mostrar la sucesion de Fibonacci",n);
+sucesion:=(0.0);
+a:= (0.0);
+b:= (1.0);
+i:= (0.0;
+gambetear i<n marcar
+definir(" ", a);
+sucesion:=a + b;
+a:=b;
+b:=sucesion;
+i:=i+1.0;
+gol;
+gol

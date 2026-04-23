@@ -1,0 +1,13 @@
+program Sumatoria pase 
+var x1, y1, z1, x2, y2, z2, sumapotencia, distancia;
+lio ("INGRESE x1",x1);
+lio ("INGRESE y1",y1);
+lio ("INGRESE z1",z1);
+lio ("INGRESE x2",x2);
+lio ("INGRESE y2",y2);
+lio ("INGRESE z2",z2);
+sumapotencia:= arco(x2-x1,2.0) + arco (y2-y1,2) + arco(z2-z1,2);
+distancia:= zurda(sumapotencia,2);
+definir("la distancia es: ", distancia);
+
+gol

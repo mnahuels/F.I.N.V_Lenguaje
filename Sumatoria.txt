@@ -1,0 +1,16 @@
+program Sumatoria pase 
+var a, b, sumatoria, c;
+lio ("INGRESE valor inicial",a);
+lio ("INGRESE valor final",b);
+sumatoria:=(0.0);
+asistir a>b marcar
+c:=b;
+b:=a;
+a:=c;
+gol;
+gambetear a<=b marcar
+sumatoria:=sumatoria + b;
+b:=b-1.0;
+gol;
+definir ("La sumatoria entre los valores es:", sumatoria);
+gol
